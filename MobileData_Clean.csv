@@ -1,0 +1,649 @@
+,Unnamed: 0,Product Name,OfferPrice,OrignalPrice,Discount,Ratings,Brand,Color,RamSize,Storage,Expandable Storage,Screen Size,Display,RearCamera,FrontCamera,battery,Processor
+0,0,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+1,1,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+2,2,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+3,3,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+4,4,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+5,5,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+6,6,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+7,7,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+8,8,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+9,9,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+10,10,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+11,11,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+12,12,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+13,13,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+14,14,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+15,15,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+16,16,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+17,17,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+18,18,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+19,19,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+20,20,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+21,21,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+22,22,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+23,23,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+24,24,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+25,25,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+26,26,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+27,27,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+28,28,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+29,29,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+30,30,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+31,31,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+32,32,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+33,33,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+34,34,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+35,35,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+36,36,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+37,37,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+38,38,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+39,39,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+40,40,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+41,41,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+42,42,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+43,43,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+44,44,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+45,45,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+46,46,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+47,47,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+48,48,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+49,49,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+50,50,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+51,51,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+52,52,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+53,53,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+54,54,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+55,55,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+56,56,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+57,57,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+58,58,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+59,59,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+60,60,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+61,61,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+62,62,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+63,63,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+64,64,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+65,65,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+66,66,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+67,67,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+68,68,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+69,69,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+70,70,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+71,71,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+72,72,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+73,73,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+74,74,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+75,75,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+76,76,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+77,77,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+78,78,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+79,79,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+80,80,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+81,81,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+82,82,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+83,83,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+84,84,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+85,85,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+86,86,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+87,87,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+88,88,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+89,89,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+90,90,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+91,91,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+92,92,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+93,93,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+94,94,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+95,95,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+96,96,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+97,97,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+98,98,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+99,99,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+100,100,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+101,101,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+102,102,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+103,103,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+104,104,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+105,105,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+106,106,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+107,107,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+108,108,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+109,109,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+110,110,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+111,111,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+112,112,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+113,113,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+114,114,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+115,115,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+116,116,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+117,117,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+118,118,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+119,119,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+120,120,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+121,121,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+122,122,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+123,123,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+124,124,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+125,125,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+126,126,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+127,127,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+128,128,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+129,129,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+130,130,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+131,131,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+132,132,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+133,133,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+134,134,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+135,135,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+136,136,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+137,137,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+138,138,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+139,139,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+140,140,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+141,141,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+142,142,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+143,143,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+144,144,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+145,145,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+146,146,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+147,147,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+148,148,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+149,149,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+150,150,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+151,151,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+152,152,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+153,153,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+154,154,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+155,155,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+156,156,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+157,157,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+158,158,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+159,159,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+160,160,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+161,161,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+162,162,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+163,163,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+164,164,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+165,165,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+166,166,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+167,167,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+168,168,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+169,169,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+170,170,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+171,171,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+172,172,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+173,173,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+174,174,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+175,175,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+176,176,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+177,177,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+178,178,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+179,179,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+180,180,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+181,181,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+182,182,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+183,183,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+184,184,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+185,185,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+186,186,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+187,187,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+188,188,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+189,189,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+190,190,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+191,191,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+192,192,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+193,193,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+194,194,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+195,195,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+196,196,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+197,197,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+198,198,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+199,199,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+200,200,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+201,201,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+202,202,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+203,203,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+204,204,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+205,205,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+206,206,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+207,207,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+208,208,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+209,209,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+210,210,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+211,211,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+212,212,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+213,213,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+214,214,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+215,215,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+216,216,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+217,217,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+218,218,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+219,219,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+220,220,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+221,221,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+222,222,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+223,223,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+224,224,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+225,225,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+226,226,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+227,227,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+228,228,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+229,229,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+230,230,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+231,231,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+232,232,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+233,233,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+234,234,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+235,235,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+236,236,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+237,237,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+238,238,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+239,239,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+240,240,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+241,241,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+242,242,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+243,243,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+244,244,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+245,245,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+246,246,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+247,247,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+248,248,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+249,249,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+250,250,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+251,251,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+252,252,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+253,253,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+254,254,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+255,255,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+256,256,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+257,257,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+258,258,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+259,259,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+260,260,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+261,261,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+262,262,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+263,263,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+264,264,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+265,265,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+266,266,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+267,267,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+268,268,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+269,269,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+270,270,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+271,271,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+272,272,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+273,273,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+274,274,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+275,275,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+276,276,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+277,277,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+278,278,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+279,279,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+280,280,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+281,281,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+282,282,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+283,283,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+284,284,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+285,285,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+286,286,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+287,287,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+288,288,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+289,289,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+290,290,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+291,291,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+292,292,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+293,293,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+294,294,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+295,295,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+296,296,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+297,297,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+298,298,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+299,299,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+300,300,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+301,301,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+302,302,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+303,303,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+304,304,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+305,305,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+306,306,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+307,307,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+308,308,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+309,309,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+310,310,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+311,311,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+312,312,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+313,313,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+314,314,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+315,315,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+316,316,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+317,317,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+318,318,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+319,319,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+320,320,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+321,321,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+322,322,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+323,323,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+324,324,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+325,325,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+326,326,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+327,327,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+328,328,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+329,329,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+330,330,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+331,331,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+332,332,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+333,333,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+334,334,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+335,335,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+336,336,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+337,337,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+338,338,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+339,339,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+340,340,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+341,341,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+342,342,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+343,343,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+344,344,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+345,345,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+346,346,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+347,347,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+348,348,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+349,349,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+350,350,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+351,351,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+352,352,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+353,353,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+354,354,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+355,355,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+356,356,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+357,357,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+358,358,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+359,359,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+360,360,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+361,361,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+362,362,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+363,363,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+364,364,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+365,365,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+366,366,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+367,367,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+368,368,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+369,369,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+370,370,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+371,371,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+372,372,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+373,373,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+374,374,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+375,375,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+376,376,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+377,377,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+378,378,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+379,379,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+380,380,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+381,381,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+382,382,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+383,383,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+384,384,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+385,385,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+386,386,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+387,387,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+388,388,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+389,389,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+390,390,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+391,391,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+392,392,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+393,393,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+394,394,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+395,395,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+396,396,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+397,397,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+398,398,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+399,399,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+400,400,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+401,401,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+402,402,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+403,403,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+404,404,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+405,405,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+406,406,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+407,407,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+408,408,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+409,409,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+410,410,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+411,411,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+412,412,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+413,413,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+414,414,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+415,415,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+416,416,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+417,417,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+418,418,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+419,419,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+420,420,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+421,421,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+422,422,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+423,423,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+424,424,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+425,425,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+426,426,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+427,427,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+428,428,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+429,429,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+430,430,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+431,431,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+432,432,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+433,433,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+434,434,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+435,435,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+436,436,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+437,437,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+438,438,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+439,439,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+440,440,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+441,441,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+442,442,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+443,443,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+444,444,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+445,445,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+446,446,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+447,447,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+448,448,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+449,449,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+450,450,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+451,451,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+452,452,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+453,453,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+454,454,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+455,455,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+456,456,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+457,457,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+458,458,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+459,459,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+460,460,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+461,461,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+462,462,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+463,463,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+464,464,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+465,465,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+466,466,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+467,467,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+468,468,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+469,469,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+470,470,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+471,471,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+472,472,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+473,473,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+474,474,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+475,475,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+476,476,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+477,477,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+478,478,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+479,479,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+480,480,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+481,481,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+482,482,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+483,483,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+484,484,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+485,485,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+486,486,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+487,487,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+488,488,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+489,489,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+490,490,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+491,491,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+492,492,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+493,493,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+494,494,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+495,495,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+496,496,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+497,497,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+498,498,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+499,499,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+500,500,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+501,501,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+502,502,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+503,503,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+504,504,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+505,505,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+506,506,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+507,507,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+508,508,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+509,509,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+510,510,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+511,511,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+512,512,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+513,513,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+514,514,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+515,515,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+516,516,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+517,517,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+518,518,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+519,519,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+520,520,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+521,521,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+522,522,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+523,523,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+524,524,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+525,525,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+526,526,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+527,527,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+528,528,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+529,529,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+530,530,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+531,531,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+532,532,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+533,533,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+534,534,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+535,535,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+536,536,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+537,537,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+538,538,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+539,539,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+540,540,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+541,541,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+542,542,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+543,543,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+544,544,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+545,545,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+546,546,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+547,547,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+548,548,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+549,549,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+550,550,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+551,551,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+552,552,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+553,553,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+554,554,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+555,555,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+556,556,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+557,557,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+558,558,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+559,559,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+560,560,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+561,561,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+562,562,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+563,563,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+564,564,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+565,565,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+566,566,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+567,567,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+568,568,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+569,569,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+570,570,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+571,571,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+572,572,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+573,573,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+574,574,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+575,575,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+576,576,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+577,577,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+578,578,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+579,579,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+580,580,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+581,581,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+582,582,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+583,583,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+584,584,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+585,585,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+586,586,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+587,587,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+588,588,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+589,589,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+590,590,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+591,591,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+592,592,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+593,593,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+594,594,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+595,595,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+596,596,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+597,597,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+598,598,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+599,599,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+600,600,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+601,601,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+602,602,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+603,603,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+604,604,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+605,605,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+606,606,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+607,607,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+608,608,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+609,609,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+610,610,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+611,611,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+612,612,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+613,613,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+614,614,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+615,615,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+616,616,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+617,617,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+618,618,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+619,619,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+620,620,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+621,621,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+622,622,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+623,623,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+624,624,REDMI 9i ,7999,9999,20,4.3,REDMI,Midnight Black,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+625,625,REDMI 9i ,7999,9999,20,4.3,REDMI,Sea Blue,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+626,626,POCO M3 ,10999,12999,15,4.3,POCO,Cool Blue,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+627,627,REDMI 9i ,7999,9999,20,4.3,REDMI,Nature Green,4,64,512,16.59,1,13,5,5000,MediaTek Helio G25 Processor
+628,628,realme C20 ,6799,7999,15,4.5,realme,Cool Blue,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+629,629,realme C20 ,6799,7999,15,4.5,realme,Cool Grey,2,32,256,16.51,1,8,5,5000,MediaTek Helio G35 Processor
+630,630,POCO M3 ,11999,14999,20,4.3,POCO,Power Black,6,128,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+631,631,POCO M3 ,10999,12999,15,4.3,POCO,Yellow,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+632,632,realme C12 ,7999,10999,27,4.4,realme,Power Silver,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+633,633,realme C12 ,7999,10999,27,4.4,realme,Power Blue,3,32,256,16.56,1,13,5,6000,Mediatek Helio G35 Processor
+634,634,POCO C3 ,7499,9999,25,4.3,POCO,Arctic Blue,3,32,512,16.59,1,13,5,5000,Mediatek Helio G35 Processor
+635,635,POCO M3 ,10999,12999,15,4.3,POCO,Power Black,6,64,512,16.59,0,48,8,6000,Qualcomm Snapdragon 662 Processor
+636,636,POCO M2 Reloaded ,9499,11999,20,4.5,POCO,Mostly Blue,4,64,512,16.59,0,13,8,5000,MediaTek Helio G80 Processor
+637,637,OPPO A12 ,9990,11990,16,4.4,OPPO,Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+638,638,realme Narzo 20 ,10499,12999,19,4.3,realme,Glory Silver,4,64,256,16.56,1,48,8,6000,MediaTek Helio G85 Processor
+639,639,OPPO A12 ,7990,10990,27,4.3,OPPO,Deep Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+640,640,OPPO A12 ,7990,10990,27,4.3,OPPO,Blue,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+641,641,OPPO A12 ,7990,10990,27,4.3,OPPO,Flowing Silver,3,32,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+642,642,OPPO A12 ,9990,11990,16,4.4,OPPO,Deep Blue,4,64,256,15.8,1,13,5,4230,MediaTek Helio P35 Processor
+643,643,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Blue,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+644,644,realme Narzo 30A ,9999,10999,9,4.4,realme,Laser Black,4,64,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+645,645,realme Narzo 30A ,8999,9999,10,4.4,realme,Laser Black,3,32,256,16.54,1,13,8,6000,MediaTek Helio G85 Processor
+646,646,realme 7 ,15499,20999,26,4.3,realme,Mist Blue,8,128,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
+647,647,realme 7 ,13499,17999,25,4.3,realme,Mist Blue,6,64,256,16.51,0,64,16,5000,MediaTek Helio G95 Processor
